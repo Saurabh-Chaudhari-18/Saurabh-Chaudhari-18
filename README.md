@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saurabh-Chaudhari-18
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning PG-DAC
-- 📫 How to reach me myemail = saurabh100chaudhari@gmail.com
+- 📫 How to reach me my-mail = saurabh100chaudhari@gmail.com
 
 
 <!---
