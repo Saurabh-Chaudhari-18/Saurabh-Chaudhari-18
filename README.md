@@ -173,9 +173,7 @@ I'm a **Software Developer** passionate about building reliable backend systems,
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Saurabh-Chaudhari-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Chaudhari-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Chaudhari-18&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -225,7 +223,38 @@ I'm a **Software Developer** passionate about building reliable backend systems,
 </picture>
 
 </div>
+# 📊 GitHub Contributions
 
+<div align="center">
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=Saurabh-Chaudhari-18&theme=tokyonight&hide_border=true&mode=weekly" />
+
+<br/><br/>
+
+### 🐍 Contribution Snake
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Saurabh-Chaudhari-18/Saurabh-Chaudhari-18/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Saurabh-Chaudhari-18/Saurabh-Chaudhari-18/output/github-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Saurabh-Chaudhari-18/Saurabh-Chaudhari-18/output/github-snake.svg"
+  />
+
+</picture>
+
+</div>
 ---
 
 # 🏆 GitHub Highlights
