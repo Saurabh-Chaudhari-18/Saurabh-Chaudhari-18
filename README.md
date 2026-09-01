@@ -138,7 +138,7 @@ I'm a **Software Developer** passionate about building reliable backend systems,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Chaudhari-18&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Chaudhari-18&theme=tokyo-night&hide_border=true&area=true&custom_title=Saurabh's%20Contribution%20Activity" />
 
 </div>
 
