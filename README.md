@@ -1,179 +1,215 @@
+<div align="center">
+
 # 👋 Hi, I'm Saurabh Chaudhari
 
-### 💻 Java Backend Developer | Spring Boot | Full Stack | AI Enthusiast
-
-I'm a software developer passionate about building **scalable backend applications, REST APIs, full-stack applications, and AI-powered solutions**.
-
-I enjoy solving problems with clean, maintainable code and continuously improving my knowledge of **Java, Spring Boot, system design, cloud technologies, and modern AI development**.
-
----
-
-## 🚀 About Me
-
-* 👨‍💻 Software Developer with **1.5+ years of professional experience**
-* ☕ Strong focus on **Java & Spring Boot**
-* 🌐 Experience building **full-stack web applications**
-* 🔌 Interested in **REST APIs, Microservices & Backend Architecture**
-* ☁️ Exploring **AWS & Cloud Technologies**
-* 🤖 Interested in **Generative AI & Agentic AI**
-* 🧠 Currently improving **DSA, System Design & Advanced Java**
-* 🎯 Open to opportunities in **Software Development / SDE-1 / Java Backend Development**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;Cloud+%26+AWS+Enthusiast;Agentic+AI+Explorer" />
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
+  <img src="https://komarev.com/ghpvc/?username=Saurabh-Chaudhari-18&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Saurabh-Chaudhari-18?label=Followers&style=flat&color=0e75b6" />
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building • Learning • Experimenting • Improving
+
+</div>
+
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+## 👨‍💻 About Me
+
+I'm a **Software Developer** passionate about building reliable backend systems, full-stack applications, and AI-powered solutions.
+
+* 💼 **1.5+ years** of software development experience
+* ☕ Java & Spring Boot enthusiast
+* 🔌 REST APIs & backend development
+* 🌐 Full-stack development with Angular
+* ☁️ Exploring AWS & cloud technologies
+* 🤖 Exploring Generative AI & Agentic AI
+* 🧠 Improving DSA, System Design & Advanced Java
+* 🎯 Interested in **SDE-1 / Java Backend / Software Engineer** opportunities
+
+<br clear="right"/>
+
+---
+
+# 🧰 Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css" />
 
 ### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,maven" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
 
-**Java • Spring Boot • Spring MVC • Spring Data JPA • REST APIs • Hibernate • Microservices**
+<br/>
+
+`Java` • `Spring Boot` • `Spring MVC` • `Spring Data JPA` • `Hibernate` • `REST APIs` • `Microservices`
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,html,css,js" />
-</p>
-
-**Angular • TypeScript • JavaScript • HTML5 • CSS3**
+<img src="https://skillicons.dev/icons?i=angular,html,css,js" />
 
 ### 🗄️ Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-**MySQL • PostgreSQL • SQL**
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
 ### ☁️ Cloud & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
 
-**AWS • Docker • Git • GitHub • Linux**
+### 🤖 AI & Tools
 
-### 🤖 AI & Development Tools
+<img src="https://skillicons.dev/icons?i=python,vscode,idea" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,vscode,idea" />
-</p>
-
-**Generative AI • Agentic AI • AI-assisted Development • Prompt Engineering**
+</div>
 
 ---
 
-## 💼 Professional Experience
+# 💼 Experience
 
-### Software Developer
-
-**TRUEBLUE IT Consulting Services Pvt. Ltd.**
+### 🏢 Software Developer — TRUEBLUE IT Consulting Services Pvt. Ltd.
 
 * Developed and maintained Java/Spring Boot applications
 * Designed and integrated RESTful APIs
 * Worked with relational databases and backend business logic
-* Collaborated with development teams to deliver production features
-* Focused on clean, maintainable and scalable code
+* Debugged and optimized application functionality
+* Collaborated with development teams on production features
 
-### Software Developer
+### 🏢 Software Developer — Sun-Net Inc.
 
-**Sun-Net Inc.**
-
-* Worked on software development and application enhancement
-* Contributed to backend and full-stack development
-* Worked with Java-based technologies and databases
-* Participated in debugging, testing and feature development
+* Contributed to software development and application enhancement
+* Worked on backend and full-stack development
+* Implemented application features and database operations
+* Participated in debugging and testing
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-> Check out my pinned repositories below for my best projects.
+<div align="center">
 
-### 🔹 Java & Spring Boot Projects
+### ⭐ Explore My Work
 
-Backend applications demonstrating:
+</div>
 
-* REST API development
-* Spring Boot
-* Spring Data JPA
-* Database integration
-* Authentication & authorization
-* Exception handling
-* API design
+| Project                     | Technologies               | Description                      |
+| --------------------------- | -------------------------- | -------------------------------- |
+| 🔥 **Spring Boot Projects** | Java • Spring Boot • MySQL | Backend applications & REST APIs |
+| 🌐 **Full Stack Projects**  | Angular • Spring Boot      | End-to-end web applications      |
+| 🤖 **AI Projects**          | AI • LLM • Agentic AI      | AI-powered applications          |
+| ☁️ **AWS Projects**         | AWS • Java • Docker        | Cloud & deployment experiments   |
 
-### 🔹 Full Stack Applications
-
-Applications combining:
-
-**Angular + Spring Boot + Database**
-
-Featuring:
-
-* Responsive UI
-* REST API integration
-* CRUD operations
-* Authentication
-* Backend business logic
-* Database management
-
-### 🔹 AI Projects
-
-Projects exploring:
-
-* Generative AI
-* Agentic AI
-* AI-powered applications
-* LLM integration
-* AI-assisted software development
+> ⭐ Check my **pinned repositories** below for my most important projects.
 
 ---
 
-## 📜 Certifications
+# 📊 GitHub Analytics
 
-🎓 **Full Stack Agentic AI** — Coursera / LearnKartS
-📅 Completed: August 2026
+<div align="center">
 
-Additional certifications and learning achievements are available in my repositories and LinkedIn profile.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saurabh-Chaudhari-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Chaudhari-18&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-Chaudhari-18&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Chaudhari-18&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saurabh-Chaudhari-18&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=Saurabh-Chaudhari-18&theme=tokyonight&hide_border=true"/>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Chaudhari-18&theme=tokyo-night&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🤝 Let's Connect
+# 📈 Contribution Activity
 
-<p align="left">
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Chaudhari-18&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Saurabh-Chaudhari-18/Saurabh-Chaudhari-18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Saurabh-Chaudhari-18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+🎓 **Full Stack Agentic AI**
+**Coursera — LearnKartS**
+August 2026
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+Java Advanced Concepts
+        ↓
+Spring Boot & Microservices
+        ↓
+System Design
+        ↓
+AWS & Cloud Architecture
+        ↓
+Generative AI
+        ↓
+Agentic AI
+```
+
+---
+
+# 🎯 2026 Goals
+
+* [x] Strengthen Java & Spring Boot
+* [x] Learn Full Stack Agentic AI
+* [ ] Master Data Structures & Algorithms
+* [ ] Improve System Design
+* [ ] Build production-grade microservices
+* [ ] Build more AI-powered applications
+* [ ] Contribute to Open Source
+* [ ] Join a strong engineering team 🚀
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
 
 <a href="https://github.com/Saurabh-Chaudhari-18">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -183,10 +219,18 @@ Additional certifications and learning achievements are available in my reposito
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<br/><br/>
+
+### 💬 Open to interesting projects, collaborations & opportunities.
+
+</div>
 
 ---
 
-### 💡 "Code. Learn. Build. Improve. Repeat."
+<div align="center">
 
-⭐ Feel free to explore my repositories and connect with me!
+### ⚡ "Code. Learn. Build. Improve. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=120&section=footer"/>
+
+</div>
