@@ -189,13 +189,6 @@ I'm a **Software Developer** passionate about building reliable backend systems,
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabh-Chaudhari-18&theme=tokyo-night&hide_border=true&area=true&custom_title=Saurabh%27s%20Contribution%20Activity" />
-
-</div>
 
 ---
 
@@ -223,38 +216,7 @@ I'm a **Software Developer** passionate about building reliable backend systems,
 </picture>
 
 </div>
-# 📊 GitHub Contributions
 
-<div align="center">
-
-### 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=Saurabh-Chaudhari-18&theme=tokyonight&hide_border=true&mode=weekly" />
-
-<br/><br/>
-
-### 🐍 Contribution Snake
-
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Saurabh-Chaudhari-18/Saurabh-Chaudhari-18/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Saurabh-Chaudhari-18/Saurabh-Chaudhari-18/output/github-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Saurabh-Chaudhari-18/Saurabh-Chaudhari-18/output/github-snake.svg"
-  />
-
-</picture>
-
-</div>
 ---
 
 # 🏆 GitHub Highlights
